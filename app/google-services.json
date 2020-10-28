@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877407600974",
+    "firebase_url": "https://shayari-24dfa.firebaseio.com",
+    "project_id": "shayari-24dfa",
+    "storage_bucket": "shayari-24dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877407600974:android:60e18dd3e70c3e8dddde1f",
+        "android_client_info": {
+          "package_name": "com.roy.shayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877407600974-l6t4lbk3hqpv89vsgstdl2ift61gr012.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfENIZOC-kbstgE1HJpe6vg1kA4owoPCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877407600974-l6t4lbk3hqpv89vsgstdl2ift61gr012.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
